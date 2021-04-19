@@ -1,0 +1,22 @@
+{
+  "name": "mongodbcon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongoconnect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elavarasan321/mongodb.git"
+  },
+  "author": "elavarasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elavarasan321/mongodb/issues"
+  },
+  "homepage": "https://github.com/elavarasan321/mongodb#readme",
+  "dependencies": {
+    "mongodb": "^3.6.6"
+  }
+}
